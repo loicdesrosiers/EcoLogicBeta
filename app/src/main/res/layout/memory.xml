@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fond">
+
+    <Button
+        android:id="@+id/button15"
+        android:layout_width="79dp"
+        android:layout_height="102dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="124dp"
+        android:background="@drawable/cartedos"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button16"
+        android:layout_width="79dp"
+        android:layout_height="102dp"
+        android:layout_marginLeft="153dp"
+        android:layout_marginTop="124dp"
+        android:background="@drawable/cartedos"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button17"
+        android:layout_width="79dp"
+        android:layout_height="102dp"
+        android:layout_marginLeft="261dp"
+        android:layout_marginTop="124dp"
+        android:background="@drawable/cartedos"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button18"
+        android:layout_width="79dp"
+        android:layout_height="102dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="249dp"
+        android:background="@drawable/cartedos"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button19"
+        android:layout_width="79dp"
+        android:layout_height="102dp"
+        android:layout_marginLeft="153dp"
+        android:layout_marginTop="249dp"
+        android:background="@drawable/cartedos"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button20"
+        android:layout_width="79dp"
+        android:layout_height="102dp"
+        android:layout_marginLeft="261dp"
+        android:layout_marginTop="249dp"
+        android:background="@drawable/cartedos"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button21"
+        android:layout_width="79dp"
+        android:layout_height="102dp"
+        android:layout_marginLeft="261dp"
+        android:layout_marginTop="373dp"
+        android:background="@drawable/cartedos"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button22"
+        android:layout_width="79dp"
+        android:layout_height="102dp"
+        android:layout_marginLeft="153dp"
+        android:layout_marginTop="373dp"
+        android:background="@drawable/cartedos"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button23"
+        android:layout_width="79dp"
+        android:layout_height="102dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="373dp"
+        android:background="@drawable/cartedos"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="79dp"
+        android:layout_height="102dp"
+        android:background="@drawable/cartedos"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="-2dp"
+        android:layout_marginLeft="261dp"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="79dp"
+        android:layout_height="102dp"
+        android:layout_marginLeft="153dp"
+        android:layout_marginTop="-2dp"
+        android:background="@drawable/cartedos"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="79dp"
+        android:layout_height="102dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="-2dp"
+        android:background="@drawable/cartedos"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button24"
+        android:layout_width="89dp"
+        android:layout_height="36dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginRight="147dp"
+        android:background="@drawable/buttonshape"
+        android:text="Quitter"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+</android.support.constraint.ConstraintLayout>
